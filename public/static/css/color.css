@@ -1,0 +1,305 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+.d-help-vltr-media li a:hover,
+.navigation ul li a:hover,
+.trem-caption p a,
+.form-heading h3,
+.d-help-side-latest.widget span,
+.d-help-event-dtl-info ul li a:hover,
+.d-help-event-meta-list li a:hover,
+.kode_side_copyright p a:hover,
+.kode_side_comment li a:hover,
+.kode_sidebar_service li a:hover,
+.d-help-checkout-list li a:hover,
+.d-help-checkout-list li a:before,
+.d-help-forget:hover,
+.d-help-navigation-wrap .navigation ul  .d-help-megamenu .d-help-mega-feature .d-help-mege-news-fig a:hover,
+.d-help-blog-list:hover .d-help-blog-row .d-help-blog-text h4 a,
+.d-help-navigation-wrap .navigation ul .d-help-megamenu .d-help-mega-feature ul li a:hover,
+.d-help-menu-link:hover,
+.d-help-call-us li a:hover,
+.d-help-shop-tags li a:hover,
+.d-help-shop-review .d-help-rating a:hover,
+.d-help-shop-text h6,
+.d-help-side-latest .d-help-rating a:hover i,
+.d-help-event-fig.event-2:hover .d-help-evnt-text h2 a,
+.d-help-event-fig figcaption h4 a:hover,
+.d-help-event-list li a:hover,
+.d-help-contact h2 a:hover,
+.d-help-pdf ul li h6 a:hover,
+.h-delp-share-meta span a:hover,
+.d-help-detail-list ul li a:hover,
+.d-help-detail-list ul li a:before,
+.d-help-social li a:hover,
+.d-help-latest-text h4,
+.d-help-latest-text a i,
+.d-help-side-categoires ul li a:hover,
+.d-help-commet-field a,
+.side-widget-tittle,
+.d-help-blog-text h2 a:hover,
+.d-help-pagination a:hover,
+.d-help-blog-text h4 > a:hover,
+.d-help-like li a:hover,
+.d-help-service-list h2 a:hover,
+.d-heip-404-detail a,
+/* 404 page */
+.breadcrumb li a:hover,
+/* home page */
+.theme-color,
+.banner-thumb-btn:hover,
+.twitter-twite p:before,
+.twitter-twite p a,
+.d-help-admin h6:hover a,
+.banner-thumb .banner-thumb-title:hover a,
+.help-contact a:hover,
+
+.navigation ul li.active a,
+.kode-social-link a:hover,
+.d-help-link .help-link,
+.d-help-copy-right a:hover,
+.d-help-causes:hover .help-causes-title a,
+.d-help-newslatter .input-area input[type="text"]:focus,
+.widget-contact-form .input-area input[type="text"]:focus,
+.d-help-media-thumb:hover .media-thumb-title a
+{
+	color:#009900;
+}
+.d-help-service-text:hover span {
+    fill: #009900;
+}
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+.d-hlp-header6 .dl-menuwrapper button,
+.d-hlp-header6 .dl-menuwrapper li a:hover,
+.d-hlp-header5 .dl-menuwrapper li a:hover,
+.d-hlp-header5 .dl-menuwrapper button,
+.widget-services-call,
+.d-help-copy-right.copy,
+.d-help-commet-field.email a,
+.close-btn,
+.widget-call-up:hover > a,
+.child_donation_row .close,
+.child_amount_list span:hover,
+.kode_side_icon li a:hover,
+.d-help-donation-button .btn,
+.hover-overlay:before,
+.d-help-navigation-wrap .navigation ul .d-help-megamenu .d-help-mega-feature ul li a:hover:before,
+.navigation ul li ul a:hover,
+.d-hlp-header6 .navigation li a.active,
+.d-hlp-header6 .navigation li a:hover,
+.d-help-social-media li a:hover,
+.d-help-coming-hdg h2,
+.nice-select .list ,
+.d-help-range-slider  .ui-widget-header,
+.d-help-range-slider .ui-slider .ui-slider-handle,
+.d-help-event-fig.event-2:hover .btn-d-help,
+.d-help-event-fig.event-2:hover figcaption,
+.accordion-section .accordion-section-title.active:before,
+.d-help-team-fig:hover .d-help-team-thumb:before,
+.d-help-gallery-link ul li a:focus,
+.d-help-gallery .overlay:before,
+.d-help-gallery-link ul li a:hover,
+.search-btn,
+.d-help-side-tags ul li a:hover,
+.d-help-pagination a.d-help-left-arrow:hover,
+/* home page */
+.theme-bg-color,
+.btn-d-help:hover,
+.ourwork-thumbs a,
+.d-help-team-thumb:before,
+.twitter-twite-slider .slick-arrow:hover,
+.widget-text .kode-social-link a:hover,
+.d-help-skill .barWrapper .progress-bar,
+.d-help-team-detail .kode-social-link a:hover,
+.d-help-joining-section .text .btn-d-help:hover,
+.d-help-causes:hover .d-help-causes-footer,
+.d-help-causes:hover .btn-d-help,
+.custom-slider .kode-caption-inner.container,
+.kode_hdg_3 h4:before,
+.kode_volunteer_btn a:before,
+.find-us-heder,
+.subscribe-form input[type="submit"],
+.d-relf-banner5 .slick-current .banner-thumb:before
+{
+	/*background-color:#FF9933;*/
+	background-color: #009900;
+}
+
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+footer .d-help-commet-field.email input:focus, 
+.form-content,
+.d-help-commet-field.email input:focus,
+.widget-title:after,
+.widget-title:before,
+.d-help-joining-form .input-area input:focus,
+.child_donation_row.pop-up,
+.child_amount_list span:hover,
+.kode_side_icon li a:hover,
+.checkbox_radio input[type="radio"]:checked ~ span:before,
+.d-help-login h4:before,
+.d-help-author:hover figure,
+.navigation ul .d-help-megamenu,
+.navigation ul li ul,
+.d-help-navi-wrap,
+.d-help-shop-item:hover,
+.d-help-team-fig:hover .d-help-team-thumb,
+.d-help-causes-row .d-help-commet-field input:focus,
+.h-delp-quote,
+.d-help-side-widget .slick-dots li.slick-active,
+.d-help-pagination a:hover,
+textarea:focus,
+input:focus,
+/* home page */
+.theme-bdr-color,
+.d-help-newslatter .input-area input[type="text"]:focus,
+.twitter-twite-slider .slick-arrow:hover
+{
+	/*border-color:#FF9933;*/
+	border-color:#009900;
+}
+
+.d-help-media-thumb:hover span{
+	fill: #009900;
+}
+.d-help-team-thumb:hover,
+.d-help-causes:hover{
+	outline-color: #009900;
+}
+/*
+	  ============================================================
+		   Trandition
+	  ============================================================
+*/
+.d-help-vltr-media li a,
+.d-hlp-header6 .dl-menuwrapper li a,
+.d-hlp-header5 .dl-menuwrapper li a,
+.d-help-commet-field.email a,
+.widget-call-up > a,
+.widget-call-contact p a,
+.d-help-event-dtl-info ul li a,
+.d-help-event-meta-list li a,
+.child_amount_list span,
+.kode_side_copyright p a,
+.kode_side_icon li a,
+.kode_side_comment li a,
+.kode_sidebar_service li a,
+.d-help-checkout-list li a,
+.d-help-forget,
+.d-help-contact:before,
+.d-help-author figure,
+.d-help-author,
+.d-help-service-text span,
+.d-help-navigation-wrap .navigation ul  .d-help-megamenu .d-help-mega-feature .d-help-mege-news-fig a,
+.d-help-blog-row .d-help-blog-text h4,
+.navigation ul .d-help-megamenu,
+.d-help-navigation-wrap .navigation ul .d-help-megamenu .d-help-mega-feature ul li a:before,
+.d-help-navigation-wrap .navigation ul .d-help-megamenu .d-help-mega-feature ul li a,
+.d-hlp-header6 .navigation li a,
+.d-help-menu-link,
+.d-help-social-media li a,
+.d-help-call-us li a,
+.d-help-shop-tags li a,
+.d-help-shop-review .d-help-rating a,
+.overlay-fig,
+.d-help-shop-item,
+.d-help-shop-item figcaption,
+.nice-select .list li,
+.d-help-side-latest .d-help-rating a i,
+.d-help-evnt-text h2 a,
+.d-help-event-fig.event-2 figcaption:before,
+.d-help-event-fig.event-2 figcaption,
+.d-help-event-fig.event-2 .overlay:before,
+.accordion-section .accordion-section-title:before,
+.d-help-event-fig figcaption h4 a,
+.d-help-event-fig figure img,
+.d-help-event-list li a,
+.d-help-team-fig,
+.d-help-contact h2 a,
+.d-help-gallery figure img,
+.d-help-gallery .overlay:before,
+.d-help-gallery figcaption,
+.d-help-gallery figcaption > h4,
+.d-help-fig,
+.d-help-fig a,
+.d-help-gallery-link ul li a,
+.d-help-pdf ul li h6 a,
+.chosen-container-single .chosen-search,
+.search-btn,
+.h-delp-share-meta span a,
+.d-help-detail-list ul li a,
+.d-help-social li a,
+.d-help-side-tags ul li a,
+.d-help-side-categoires ul li a span,
+.d-help-side-categoires ul li a,
+.d-help-blog-text h2 a,
+.d-help-pagination a,
+.d-help-pagination a.d-help-left-arrow,
+.d-help-blog-text h4 > a,
+.d-help-like li a,
+.d-help-service-list h2 a,
+.d-help-service-text > a,
+textarea,
+input,
+.breadcrumb li a,
+/* home page */
+input,
+.btn-d-help,
+.d-help-causes,
+.d-help-causes-footer,
+.d-help-media-thumb span,
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,
+h1,h2,h3,h4,h5,h6,
+.help-contact a,
+.help-searchbox,
+.btn-default,
+.ourwork-thumbs a,
+.ourwork-thumbs a img,
+.ourwork-thumbs a:before,
+.icon-box,
+.d-help-brand a img,
+.d-help-team-thumb,
+.d-help-team-thumb:before,
+.d-help-link .help-link,
+.banner-thumb-btn,
+.d-help-copy-right a,
+.twitter-twite p a,
+.d-help-admin h6 a,
+.kode-social-link a,
+.banner-thumb-btn:before,
+.d-hlp-header5 .navigation ul li a,
+.d-hlp-header5 .kode-social-link a,
+.d-help-volunteer-fig:hover .overlay:before,
+.d-relf-banner5 .slick-current .banner-thumb:before
+{
+	-webkit-transition:all 0.3s ease-in-out;
+		-moz-transition:all 0.3s ease-in-out;
+			-ms-transition:all 0.3s ease-in-out;
+				-o-transition:all 0.3s ease-in-out;
+					transition:all 0.3s ease-in-out;
+}
+
+.effect_data ul li a,
+
+.hover-effect .effect_data li,
+.hover-effect figure img{
+-webkit-transition:all 0.6s ease-in-out;
+		-moz-transition:all 0.6s ease-in-out;
+			-ms-transition:all 0.6s ease-in-out;
+				-o-transition:all 0.6s ease-in-out;
+					transition:all 0.6s ease-in-out;
+}
+
+.navigation ul li a{
+	color: #000;
+	font-weight: bolder;
+}

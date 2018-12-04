@@ -1,0 +1,303 @@
+/*
+      ======================================================================================
+								SIDEBAR WIDGET START
+      ======================================================================================
+*/
+.margin{
+	margin-bottom:0px !important;
+}
+/*sidebar start*/
+.d-help-side-categoires ul li,
+.d-help-side-categoires ul,
+.d-help-side-categoires,
+.d-help-side-widget,
+.sidebar{
+	float:left;
+	width:100%;
+}
+.sidebar{
+	padding:24px 40px 28px;
+	border:1px solid #e2e2e2;
+	border-radius:6px;
+}
+.d-help-side-widget{
+	margin-bottom:34px;
+}
+.side-widget-tittle{
+	margin-bottom:25px;
+}
+.d-help-leave-comment .d-help-commet-field{
+	position:relative;
+}
+.d-help-commet-field{
+	margin-bottom:30px;
+}
+.d-help-leave-comment  .d-help-form-submit{
+	width:auto;
+	float:left;
+	margin-bottom:30px;
+}
+.d-help-textarea{
+	margin-bottom:30px;
+}
+.d-help-commet-field a{
+	position:absolute;
+	top:13px;
+	right:15px;
+	font-size:15px;
+}
+.d-help-side-widget .d-help-commet-field {
+	margin-bottom:0px;
+	position:relative;
+}
+/* d-help-side-categoires start */
+.d-help-side-categoires {
+	padding-bottom:35px;
+	border-bottom:1px solid #e7e7e7;
+}
+.d-help-side-categoires ul li{
+	display:block;
+	margin-bottom:10px;
+}
+.d-help-side-categoires ul li:last-child{
+	margin-bottom:0px;	
+}
+.d-help-side-categoires ul li > a{
+	display:block;
+	font-size:16px;
+}
+.d-help-side-categoires ul li > a:hover{
+	padding-left:5px;
+}
+.d-help-side-categoires ul li a span{
+	float:right;
+}
+.d-help-side-categoires ul li a:hover span{
+	padding-right:5px;
+}
+
+/* d-help-side-latest start */
+.d-help-side-latest{
+	float:left;
+	width:100%;
+}
+.d-help-side-latest figure{
+	width:auto;
+	border-radius:3px;
+}
+.d-help-latest-text{
+	overflow:hidden;
+	padding:6px 0px 7px 15px;
+}
+.d-help-latest-text h6{
+	margin-bottom:3px;
+}
+.d-help-latest-text a{
+	display:block;
+	margin-bottom:3px;
+}
+.d-help-latest-text a i{
+	margin-right:8px;
+}
+.d-help-side-categoires.latest{
+	border-bottom:none;
+	padding-bottom:0px;
+}
+.d-help-side-categoires.latest ul li{
+	padding:20px 0px;
+	border-bottom:1px solid #e7e7e7;
+	margin-bottom:0px;
+}
+.d-help-side-categoires.latest ul li:first-child{
+	padding-top:0px;
+}
+.d-help-latest-text h4{
+	margin-bottom:4px;
+}
+.d-help-latest-text p{
+	margin-bottom:0px;
+	line-height:normal;
+}
+.d-help-side-widget.donar{
+	padding-bottom:30px;
+	border-bottom:1px solid #e7e7e7;
+}
+/* slick slider start */
+
+.d-help-side-widget .slick-prev, 
+.d-help-side-widget .slick-next{
+	display:none !important;
+}
+.d-help-side-widget .slick-dots{
+	text-align: left;
+	width: auto;
+	bottom: 44px;
+	left: 15px;
+}
+.d-help-side-widget .slick-dots li{
+	height:15px;
+	width:15px;
+	border:2px solid #aeaeae;
+	border-radius:100%;
+	margin:0px;
+	margin-right:4px;
+}
+.d-help-side-widget .slick-dots li:before{
+	position: absolute;
+	content: "";
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	height: 5px;
+	width: 5px;
+	border-radius: 100%;
+	background-color: #1793d1;
+	line-height: 15px;
+	text-align: center;
+	margin: auto;
+	opacity:0;
+}
+.d-help-side-widget .slick-dots li:last-child{
+	margin-right:0px;
+}
+.d-help-side-widget .slick-dots li.slick-active:before {
+	opacity:1;
+}
+.d-help-side-widget  .slick-dots li button:before{
+	content:"";
+}
+/*d help side tags*/
+.d-help-side-tags ul,
+.d-help-side-tags{
+	float:left;
+	width:100%;
+}
+.d-help-side-tags ul li{
+	display:inline-block;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+.d-help-side-tags ul li:last-child{
+	margin-right:0px;
+}
+.d-help-side-tags ul li a{
+	display:inline-block;
+	padding:12px 18px;
+	background-color:#e3e3e3;
+	border-radius:5px;
+	font-size:12px;
+}
+.d-help-side-tags ul li a:hover{
+	color:#fff;
+}
+/*d help side tags instagram*/
+.d-help-side-tags.istagram ul li{
+	margin-right:2px;
+	margin-bottom:2px;
+	overflow:hidden;
+}
+.d-help-side-tags.istagram ul li a{
+	padding:0px 0px;
+	background:none;
+}
+/*
+      ======================================================================================
+								SIDEBAR WIDGET END
+      ======================================================================================
+*/
+
+/*
+      ======================================================================================
+								SIDEBAR WIDGET SHOP START
+      ======================================================================================
+*/
+.sidebar.shop{
+	padding:0px 0px;
+	border:none;
+}
+.d-help-rang-price,
+.d-help-range-slider{
+	float:left;
+	width:100%;
+}
+.d-help-side-categoires.shop ul li a{
+	padding-left:18px;
+	position:relative;
+}
+.d-help-side-categoires.shop ul li a:before{
+	position:absolute;
+	content:"\f101";
+	top:0px;
+	left:0px;
+	right:auto;
+	bottom:0px;
+	font-family:fontawesome;
+	font-size:15px;
+}
+/*d help rang slider start*/
+.d-help-side-widget.rang{
+	border-bottom:1px solid #e1e1e1;
+}
+.d-help-range-slider .ui-widget-content{
+	background-color:#e1e1e1;
+	height:7px;
+	border:none;
+}
+.d-help-range-slider .ui-slider .ui-slider-handle{
+	height:13px;
+	width:13px;
+	border-radius:50%;
+	border:none;
+	top:-3px;
+}
+.d-help-rang-price{
+	padding:40px 0px;
+}
+.d-help-rang-price .btn-d-help{
+	float:left;
+	width:auto;
+}
+.d-help-rang-text{
+	overflow: hidden;
+	padding: 6px 0px;
+}
+.d-help-rang-text span{
+	float: left;
+	width: 44%;
+	text-align: right;
+	color:#999999;
+	font-size: 15px;
+}
+.d-help-rang-text .amount{
+	float: right;
+	width: 54%;
+	border: none;
+	height: auto;
+	padding: 0px 0px;
+	color:#999999;
+	font-size:14px;
+	padding-top:2px;
+}
+/*d help rating start*/
+.d-help-dollar{
+	float:left;
+	margin-right:12px;
+}
+.d-help-rating{
+	float:left;
+	width:auto;
+}
+.d-help-rating > a{
+	display:inline-block;
+	margin:-1px;
+}
+.d-help-side-latest .d-help-rating a i{
+	margin-right:0px;
+	color:#46464b;
+}
+/*
+      ======================================================================================
+								SIDEBAR WIDGET SHOP END
+      ======================================================================================
+*/
